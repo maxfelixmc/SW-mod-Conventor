@@ -371,7 +371,7 @@ class Application(TkinterDnD.Tk):
             widget.destroy()
 
         # Anzahl der Bilder pro Zeile anpassen basierend auf der Fenstergröße
-        images_per_row = 6  # Bei Bedarf anpassen
+        images_per_row = 4  # Bei Bedarf anpassen
 
         # Bilder hinzufügen, max images_per_row pro Zeile
         for index, file_path in enumerate(self.file_list):
