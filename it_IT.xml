@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translations>
+    <text key="language_name">Italiano</text>
+    <text key="title">Programma di Conversione</text>
+    <text key="path1_label">Percorso1:</text>
+    <text key="path2_label">Percorso2:</text>
+    <text key="compiler_selection">Selezione del Compilatore</text>
+    <text key="mesh_compiler">Compilatore di Mesh</text>
+    <text key="texture_compiler">Compilatore di Texture</text>
+    <text key="options">Opzioni</text>
+    <text key="none">Nessuna</text>
+    <text key="enable_physics_mesh">Abilita Mesh Fisica</text>
+    <text key="enable_physics_object">Abilita Oggetto Fisico</text>
+    <text key="enable_compression">Abilita Compressione</text>
+    <text key="convert">Converti</text>
+    <text key="help">Aiuto</text>
+    <text key="create_shortcut">Crea Collegamento</text>
+    <text key="drag_drop">Trascina e rilascia i file qui:</text>
+    <text key="remove">Rimuovi</text>
+    <text key="error">Errore</text>
+    <text key="enter_path1">Per favore, inserisci Percorso1.</text>
+    <text key="enter_path2">Per favore, inserisci Percorso2.</text>
+    <text key="select_compiler">Per favore, seleziona un compilatore.</text>
+    <text key="an_error_occurred">Si è verificato un errore:\n</text>
+    <text key="unexpected_error_occurred">Si è verificato un errore imprevisto:\n</text>
+    <text key="failed_to_get_help">Impossibile ottenere l'aiuto:\n</text>
+    <text key="shortcut_created">Collegamento sul desktop creato con successo.</text>
+    <text key="shortcut_already_exists">Il collegamento esiste già.</text>
+    <text key="shortcut_updated">Collegamento aggiornato.</text>
+    <text key="failed_to_create_shortcut">Creazione del collegamento fallita:\n</text>
+    <text key="translation_error">La traduzione automatica non è disponibile. L'interfaccia rimarrà in inglese.</text>
+    <text key="image_not_found">Immagine non trovata</text>
+    <text key="help_output_title">Output di Aiuto</text>
+</translations>

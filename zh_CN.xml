@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translations>
+    <text key="language_name">简体中文</text>
+    <text key="title">转换程序</text>
+    <text key="path1_label">路径1：</text>
+    <text key="path2_label">路径2：</text>
+    <text key="compiler_selection">编译器选择</text>
+    <text key="mesh_compiler">网格编译器</text>
+    <text key="texture_compiler">纹理编译器</text>
+    <text key="options">选项</text>
+    <text key="none">无</text>
+    <text key="enable_physics_mesh">启用物理网格</text>
+    <text key="enable_physics_object">启用物理对象</text>
+    <text key="enable_compression">启用压缩</text>
+    <text key="convert">转换</text>
+    <text key="help">帮助</text>
+    <text key="create_shortcut">创建快捷方式</text>
+    <text key="drag_drop">将文件拖放到这里：</text>
+    <text key="remove">移除</text>
+    <text key="error">错误</text>
+    <text key="enter_path1">请输入路径1。</text>
+    <text key="enter_path2">请输入路径2。</text>
+    <text key="select_compiler">请选择一个编译器。</text>
+    <text key="an_error_occurred">发生错误：\n</text>
+    <text key="unexpected_error_occurred">发生意外错误：\n</text>
+    <text key="failed_to_get_help">获取帮助失败：\n</text>
+    <text key="shortcut_created">桌面快捷方式创建成功。</text>
+    <text key="shortcut_already_exists">快捷方式已存在。</text>
+    <text key="shortcut_updated">快捷方式已更新。</text>
+    <text key="failed_to_create_shortcut">创建快捷方式失败：\n</text>
+    <text key="translation_error">自动翻译不可用。界面将保持英文。</text>
+    <text key="image_not_found">未找到图片</text>
+    <text key="help_output_title">帮助输出</text>
+</translations>

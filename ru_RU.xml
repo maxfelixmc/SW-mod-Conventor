@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translations>
+    <text key="language_name">Русский</text>
+    <text key="title">Программа Конвертации</text>
+    <text key="path1_label">Путь1:</text>
+    <text key="path2_label">Путь2:</text>
+    <text key="compiler_selection">Выбор Компилятора</text>
+    <text key="mesh_compiler">Компилятор Сетки</text>
+    <text key="texture_compiler">Компилятор Текстур</text>
+    <text key="options">Опции</text>
+    <text key="none">Ничего</text>
+    <text key="enable_physics_mesh">Включить Физическую Сетку</text>
+    <text key="enable_physics_object">Включить Физический Объект</text>
+    <text key="enable_compression">Включить Сжатие</text>
+    <text key="convert">Конвертировать</text>
+    <text key="help">Помощь</text>
+    <text key="create_shortcut">Создать Ярлык</text>
+    <text key="drag_drop">Перетащите файлы сюда:</text>
+    <text key="remove">Удалить</text>
+    <text key="error">Ошибка</text>
+    <text key="enter_path1">Пожалуйста, введите Путь1.</text>
+    <text key="enter_path2">Пожалуйста, введите Путь2.</text>
+    <text key="select_compiler">Пожалуйста, выберите компилятор.</text>
+    <text key="an_error_occurred">Произошла ошибка:\n</text>
+    <text key="unexpected_error_occurred">Произошла неожиданная ошибка:\n</text>
+    <text key="failed_to_get_help">Не удалось получить справку:\n</text>
+    <text key="shortcut_created">Ярлык на рабочем столе успешно создан.</text>
+    <text key="shortcut_already_exists">Ярлык уже существует.</text>
+    <text key="shortcut_updated">Ярлык обновлен.</text>
+    <text key="failed_to_create_shortcut">Не удалось создать ярлык:\n</text>
+    <text key="translation_error">Автоматический перевод недоступен. Интерфейс будет на английском.</text>
+    <text key="image_not_found">Изображение не найдено</text>
+    <text key="help_output_title">Справка</text>
+</translations>
