@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translations>
+    <text key="language_name">日本語</text>
+    <text key="title">コンバージョンプログラム</text>
+    <text key="path1_label">パス1：</text>
+    <text key="path2_label">パス2：</text>
+    <text key="compiler_selection">コンパイラ選択</text>
+    <text key="mesh_compiler">メッシュコンパイラ</text>
+    <text key="texture_compiler">テクスチャコンパイラ</text>
+    <text key="options">オプション</text>
+    <text key="none">なし</text>
+    <text key="enable_physics_mesh">物理メッシュを有効化</text>
+    <text key="enable_physics_object">物理オブジェクトを有効化</text>
+    <text key="enable_compression">圧縮を有効化</text>
+    <text key="convert">変換</text>
+    <text key="help">ヘルプ</text>
+    <text key="create_shortcut">ショートカット作成</text>
+    <text key="drag_drop">ファイルをここにドラッグ＆ドロップ：</text>
+    <text key="remove">削除</text>
+    <text key="error">エラー</text>
+    <text key="enter_path1">パス1を入力してください。</text>
+    <text key="enter_path2">パス2を入力してください。</text>
+    <text key="select_compiler">コンパイラを選択してください。</text>
+    <text key="an_error_occurred">エラーが発生しました：\n</text>
+    <text key="unexpected_error_occurred">予期しないエラーが発生しました：\n</text>
+    <text key="failed_to_get_help">ヘルプの取得に失敗しました：\n</text>
+    <text key="shortcut_created">デスクトップショートカットが正常に作成されました。</text>
+    <text key="shortcut_already_exists">ショートカットは既に存在します。</text>
+    <text key="shortcut_updated">ショートカットが更新されました。</text>
+    <text key="failed_to_create_shortcut">ショートカットの作成に失敗しました：\n</text>
+    <text key="translation_error">自動翻訳が利用できません。GUIは英語のままです。</text>
+    <text key="image_not_found">画像が見つかりません</text>
+    <text key="help_output_title">ヘルプ出力</text>
+</translations>
