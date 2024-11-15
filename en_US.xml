@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translations>
+    <text key="language_name">English</text>
+    <text key="title">Conversion Program</text>
+    <text key="path1_label">Path1:</text>
+    <text key="path2_label">Path2:</text>
+    <text key="compiler_selection">Compiler Selection</text>
+    <text key="mesh_compiler">Mesh Compiler</text>
+    <text key="texture_compiler">Texture Compiler</text>
+    <text key="options">Options</text>
+    <text key="none">None</text>
+    <text key="enable_physics_mesh">Enable Physics Mesh</text>
+    <text key="enable_physics_object">Enable Physics Object</text>
+    <text key="enable_compression">Enable Compression</text>
+    <text key="convert">Convert</text>
+    <text key="help">Help</text>
+    <text key="create_shortcut">Create Shortcut</text>
+    <text key="drag_drop">Drag and drop files here:</text>
+    <text key="remove">Remove</text>
+    <text key="error">Error</text>
+    <text key="enter_path1">Please enter Path1.</text>
+    <text key="enter_path2">Please enter Path2.</text>
+    <text key="select_compiler">Please select a compiler.</text>
+    <text key="an_error_occurred">An error occurred:\n</text>
+    <text key="unexpected_error_occurred">An unexpected error occurred:\n</text>
+    <text key="failed_to_get_help">Failed to get help:\n</text>
+    <text key="shortcut_created">Desktop shortcut created successfully.</text>
+    <text key="shortcut_already_exists">Shortcut already exists.</text>
+    <text key="shortcut_updated">Shortcut updated.</text>
+    <text key="failed_to_create_shortcut">Failed to create shortcut:\n</text>
+    <text key="translation_error">Automatic translation is not available. The GUI will be in English.</text>
+    <text key="image_not_found">Image not found</text>
+</translations>
