@@ -13,3 +13,5 @@ Set Output Folder:
 Create or Update Shortcut:
   -If the shortcut is broken because you have moved the folder, it is advisable to create a new shortcut using the Create Shortcut button.
   -Simply start the program and press the button once, and the shortcut should be adjusted accordingly.
+
+for windows only
