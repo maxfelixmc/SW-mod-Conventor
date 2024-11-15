@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translations>
+    <text key="language_name">हिन्दी</text>
+    <text key="title">रूपांतरण कार्यक्रम</text>
+    <text key="path1_label">पथ1:</text>
+    <text key="path2_label">पथ2:</text>
+    <text key="compiler_selection">कम्पाइलर चयन</text>
+    <text key="mesh_compiler">मेश कम्पाइलर</text>
+    <text key="texture_compiler">टेक्सचर कम्पाइलर</text>
+    <text key="options">विकल्प</text>
+    <text key="none">कुछ नहीं</text>
+    <text key="enable_physics_mesh">भौतिक मेश सक्षम करें</text>
+    <text key="enable_physics_object">भौतिक वस्तु सक्षम करें</text>
+    <text key="enable_compression">संपीड़न सक्षम करें</text>
+    <text key="convert">रूपांतरण करें</text>
+    <text key="help">सहायता</text>
+    <text key="create_shortcut">शॉर्टकट बनाएं</text>
+    <text key="drag_drop">फाइलें यहाँ खींचें और छोड़ें:</text>
+    <text key="remove">हटाएं</text>
+    <text key="error">त्रुटि</text>
+    <text key="enter_path1">कृपया पथ1 दर्ज करें।</text>
+    <text key="enter_path2">कृपया पथ2 दर्ज करें।</text>
+    <text key="select_compiler">कृपया एक कम्पाइलर चुनें।</text>
+    <text key="an_error_occurred">एक त्रुटि हुई है:\n</text>
+    <text key="unexpected_error_occurred">एक अप्रत्याशित त्रुटि हुई है:\n</text>
+    <text key="failed_to_get_help">सहायता प्राप्त करने में विफल:\n</text>
+    <text key="shortcut_created">डेस्कटॉप शॉर्टकट सफलतापूर्वक बनाया गया।</text>
+    <text key="shortcut_already_exists">शॉर्टकट पहले से मौजूद है।</text>
+    <text key="shortcut_updated">शॉर्टकट अपडेट कर दिया गया।</text>
+    <text key="failed_to_create_shortcut">शॉर्टकट बनाने में विफल:\n</text>
+    <text key="translation_error">स्वचालित अनुवाद उपलब्ध नहीं है। GUI अंग्रेज़ी में रहेगा।</text>
+    <text key="image_not_found">छवि नहीं मिली</text>
+    <text key="help_output_title">सहायता आउटपुट</text>
+</translations>
