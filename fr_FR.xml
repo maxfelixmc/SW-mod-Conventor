@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translations>
+    <text key="language_name">Français</text>
+    <text key="title">Programme de Conversion</text>
+    <text key="path1_label">Chemin1 :</text>
+    <text key="path2_label">Chemin2 :</text>
+    <text key="compiler_selection">Sélection du Compilateur</text>
+    <text key="mesh_compiler">Compilateur de Maillage</text>
+    <text key="texture_compiler">Compilateur de Texture</text>
+    <text key="options">Options</text>
+    <text key="none">Aucune</text>
+    <text key="enable_physics_mesh">Activer le Maillage Physique</text>
+    <text key="enable_physics_object">Activer l'Objet Physique</text>
+    <text key="enable_compression">Activer la Compression</text>
+    <text key="convert">Convertir</text>
+    <text key="help">Aide</text>
+    <text key="create_shortcut">Créer un Raccourci</text>
+    <text key="drag_drop">Glissez-déposez les fichiers ici :</text>
+    <text key="remove">Supprimer</text>
+    <text key="error">Erreur</text>
+    <text key="enter_path1">Veuillez entrer le Chemin1.</text>
+    <text key="enter_path2">Veuillez entrer le Chemin2.</text>
+    <text key="select_compiler">Veuillez sélectionner un compilateur.</text>
+    <text key="an_error_occurred">Une erreur s'est produite :\n</text>
+    <text key="unexpected_error_occurred">Une erreur inattendue s'est produite :\n</text>
+    <text key="failed_to_get_help">Échec de l'obtention de l'aide :\n</text>
+    <text key="shortcut_created">Raccourci sur le bureau créé avec succès.</text>
+    <text key="shortcut_already_exists">Le raccourci existe déjà.</text>
+    <text key="shortcut_updated">Raccourci mis à jour.</text>
+    <text key="failed_to_create_shortcut">Échec de la création du raccourci :\n</text>
+    <text key="translation_error">La traduction automatique n'est pas disponible. L'interface restera en anglais.</text>
+    <text key="image_not_found">Image non trouvée</text>
+    <text key="help_output_title">Sortie d'Aide</text>
+</translations>
