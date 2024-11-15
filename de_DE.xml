@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translations>
+    <text key="language_name">Deutsch</text>
+    <text key="title">Konvertierungsprogramm</text>
+    <text key="path1_label">Pfad1:</text>
+    <text key="path2_label">Pfad2:</text>
+    <text key="compiler_selection">Compiler Auswahl</text>
+    <text key="mesh_compiler">Mesh Compiler</text>
+    <text key="texture_compiler">Texture Compiler</text>
+    <text key="options">Optionen</text>
+    <text key="none">Keine</text>
+    <text key="enable_physics_mesh">Physics Mesh aktivieren</text>
+    <text key="enable_physics_object">Physics Objekt aktivieren</text>
+    <text key="enable_compression">Komprimierung aktivieren</text>
+    <text key="convert">Konvertieren</text>
+    <text key="help">Hilfe</text>
+    <text key="create_shortcut">Verknüpfung erstellen</text>
+    <text key="drag_drop">Dateien hierher ziehen:</text>
+    <text key="remove">Entfernen</text>
+    <text key="error">Fehler</text>
+    <text key="enter_path1">Bitte Pfad1 eingeben.</text>
+    <text key="enter_path2">Bitte Pfad2 eingeben.</text>
+    <text key="select_compiler">Bitte wählen Sie einen Compiler aus.</text>
+    <text key="an_error_occurred">Ein Fehler ist aufgetreten:\n</text>
+    <text key="unexpected_error_occurred">Ein unerwarteter Fehler ist aufgetreten:\n</text>
+    <text key="failed_to_get_help">Fehler beim Abrufen der Hilfe:\n</text>
+    <text key="shortcut_created">Desktop-Verknüpfung wurde erfolgreich erstellt.</text>
+    <text key="shortcut_already_exists">Verknüpfung existiert bereits.</text>
+    <text key="shortcut_updated">Verknüpfung aktualisiert.</text>
+    <text key="failed_to_create_shortcut">Fehler beim Erstellen der Verknüpfung:\n</text>
+    <text key="translation_error">Automatische Übersetzung ist nicht verfügbar. Die GUI wird auf Englisch angezeigt.</text>
+    <text key="image_not_found">Bild nicht gefunden</text>
+</translations>
