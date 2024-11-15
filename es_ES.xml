@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translations>
+    <text key="language_name">Español</text>
+    <text key="title">Programa de Conversión</text>
+    <text key="path1_label">Ruta1:</text>
+    <text key="path2_label">Ruta2:</text>
+    <text key="compiler_selection">Selección de Compilador</text>
+    <text key="mesh_compiler">Compilador de Malla</text>
+    <text key="texture_compiler">Compilador de Texturas</text>
+    <text key="options">Opciones</text>
+    <text key="none">Ninguna</text>
+    <text key="enable_physics_mesh">Habilitar Malla Física</text>
+    <text key="enable_physics_object">Habilitar Objeto Físico</text>
+    <text key="enable_compression">Habilitar Compresión</text>
+    <text key="convert">Convertir</text>
+    <text key="help">Ayuda</text>
+    <text key="create_shortcut">Crear Acceso Directo</text>
+    <text key="drag_drop">Arrastra y suelta archivos aquí:</text>
+    <text key="remove">Eliminar</text>
+    <text key="error">Error</text>
+    <text key="enter_path1">Por favor, ingresa Ruta1.</text>
+    <text key="enter_path2">Por favor, ingresa Ruta2.</text>
+    <text key="select_compiler">Por favor, selecciona un compilador.</text>
+    <text key="an_error_occurred">Ocurrió un error:\n</text>
+    <text key="unexpected_error_occurred">Ocurrió un error inesperado:\n</text>
+    <text key="failed_to_get_help">No se pudo obtener ayuda:\n</text>
+    <text key="shortcut_created">Acceso directo en el escritorio creado exitosamente.</text>
+    <text key="shortcut_already_exists">El acceso directo ya existe.</text>
+    <text key="shortcut_updated">Acceso directo actualizado.</text>
+    <text key="failed_to_create_shortcut">No se pudo crear el acceso directo:\n</text>
+    <text key="translation_error">La traducción automática no está disponible. La interfaz permanecerá en inglés.</text>
+    <text key="image_not_found">Imagen no encontrada</text>
+    <text key="help_output_title">Salida de Ayuda</text>
+</translations>
